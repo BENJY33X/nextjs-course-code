@@ -1,6 +1,7 @@
 {
   "name": "nextjs-course",
   "version": "0.1.0",
+  "licenses": "UNLICENSED",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -17,4 +18,5 @@
     "react-markdown": "^5.0.3",
     "react-syntax-highlighter": "^15.4.3"
   }
+  
 }
